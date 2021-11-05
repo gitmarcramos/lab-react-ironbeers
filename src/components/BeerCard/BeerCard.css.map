@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,OAAO,EAAE,IAAI;CAKhB;;AAND,AAGI,UAHM,CAGN,gBAAgB,CAAA;EACZ,SAAS,EAAE,GAAG;CACjB",
+    "sources": [
+        "BeerCard.scss"
+    ],
+    "names": [],
+    "file": "BeerCard.css"
+}

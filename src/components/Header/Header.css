@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+  padding: 24px;
+  background-color: #3c613c;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  font-weight: bold;
+}
+
+.header .nav, .header .logo {
+  color: white;
+}
+/*# sourceMappingURL=Header.css.map */
