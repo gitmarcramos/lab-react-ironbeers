@@ -7,12 +7,12 @@ export default function BeerCard(props) {
 
   return (
     <>
-      <Link to={"/beer/" + data._id} data={data}>
+      <Link to={"/beers/" + data._id} data={data}>
         <div className="beer-card">
           <img
             className="beer_card-image"
             src={data.image_url}
-            alt={`The ${data.name} image`}
+            alt={`The ${data.name} illustration`}
           />
           <div className="beer_card-infos">
             <h2>{data.name}</h2>
